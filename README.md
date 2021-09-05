@@ -30,8 +30,8 @@
   🔗 Connect with me: 
   </br>
   <br/> 
-  :octocat: (alfredfrancis68) http://github.com - automatic!
-[GitHub]
+ @alfredfrancis68 
+
 </body>
 
 </html>
