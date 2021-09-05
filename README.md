@@ -27,8 +27,11 @@
   ⚡ Love To Do coding and listen to music :headphones: & sing :microphone: at the same time 🕐
   </br>
   <br/> 
-  :link: Connect with me: 
-  
+  🔗 Connect with me: 
+  </br>
+  <br/> 
+  :octocat: (alfredfrancis68) http://github.com - automatic!
+[GitHub]
 </body>
 
 </html>
