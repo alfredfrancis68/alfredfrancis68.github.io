@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1>Hey guys 👋, its me **Alfred Francis** :hugs:</h1>
+    <h1>Hey guys 👋, its me __Alfred Francis__ :hugs:</h1>
     <br/> 
   <br/> 
   🖥️  A passionate frontend developer  
