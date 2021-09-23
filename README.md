@@ -21,6 +21,9 @@
   <br/> 
  @alfredfrancis68 
 
+Languages and Tools:
+aws bash bootstrap c cplusplus css3 dart docker flutter html5 java kotlin kubernetes mongodb mysql nodejs python react
+
 </body>
 
 </html>
